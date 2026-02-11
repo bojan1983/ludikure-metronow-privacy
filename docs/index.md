@@ -14,4 +14,4 @@ All transit data is fetched through a lightweight proxy from WMATA public feeds.
 
 ## Contact
 If you have questions about this privacy policy, please contact:  
-**metronow@proton.me** (replace with your email)
+metronow@proton.me
